@@ -1,1 +1,1 @@
-module.exports = require("./lib/Igual.js");
+module.exports = require("./lib/Diferencia.js");

@@ -3,6 +3,11 @@
 ## Modulo Diferencia
 
 Este módulo proporciona una nueva operación que permite comparar los valores y devolver los que difieren.
+## Despliegue en Heroku
+  * [Heroku](https://ull-andrea-carlos-comparador.herokuapp.com/)
+
+## Hace uso de los módulos
+  * [Secuencia](https://www.npmjs.com/package/@ull-andrea-carlos/secuencia)
 ## Repositorios del proyecto.
   * [Secuencia](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-secuencia).
   * [Fibonacci](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-fibonacci).
