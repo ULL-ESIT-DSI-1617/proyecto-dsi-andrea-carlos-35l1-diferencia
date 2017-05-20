@@ -1,5 +1,7 @@
 # Proyecto DSI
 
+[![Build Status](https://travis-ci.org/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-diferencia.svg?branch=master)](https://travis-ci.org/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-diferencia)
+
 ## Modulo Diferencia
 
 Este módulo proporciona una nueva operación que permite comparar los valores y devolver los que difieren.
